@@ -7,7 +7,6 @@ colorama==0.4.1
 docutils==0.15.2
 idna==2.8
 jmespath==0.9.4
-logbook==1.5.3
 mysql-connector-python==8.0.18
 protobuf==3.10.0
 pyasn1==0.4.7
